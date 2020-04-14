@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HomeApp</string>
+
+    <!--activity_login.xml-->
+    <string name="login_instructions">Scan this code with</string>
+    <string name="smart_home">Smart Home</string>
+    <string name="next">Next</string>
+
+    <!--activity_main.xml-->
+    <string name="wifi_off">WIFI OFF</string>
+    <string name="wifi_on">WIFI ON</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="open">OPEN</string>
+</resources>
